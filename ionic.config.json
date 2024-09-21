@@ -1,0 +1,7 @@
+{
+  "name": "tiendaSata1810",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
