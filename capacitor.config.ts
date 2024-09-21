@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'tiendaSata1810',
+  appId: 'app.web.tiendaSata',
+  appName: 'Tienda Sata',
   webDir: 'www'
 };
 
